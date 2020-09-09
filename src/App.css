@@ -13,3 +13,13 @@
     text-align: left;
     font-size: x-large;
 }
+.myImput{
+    width: 98.7%;
+    font-size: x-large;
+    padding: .2rem;
+}
+.myGrid{
+    display: grid;
+
+    grid-column-gap: .5rem;
+}
