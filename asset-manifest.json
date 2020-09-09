@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kodu/static/css/main.dab714a7.chunk.css",
-    "main.js": "/kodu/static/js/main.ecaaf660.chunk.js",
-    "main.js.map": "/kodu/static/js/main.ecaaf660.chunk.js.map",
+    "main.css": "/kodu/static/css/main.f709d517.chunk.css",
+    "main.js": "/kodu/static/js/main.c375688b.chunk.js",
+    "main.js.map": "/kodu/static/js/main.c375688b.chunk.js.map",
     "runtime-main.js": "/kodu/static/js/runtime-main.458b0417.js",
     "runtime-main.js.map": "/kodu/static/js/runtime-main.458b0417.js.map",
-    "static/js/2.d15f7eda.chunk.js": "/kodu/static/js/2.d15f7eda.chunk.js",
-    "static/js/2.d15f7eda.chunk.js.map": "/kodu/static/js/2.d15f7eda.chunk.js.map",
+    "static/js/2.48103840.chunk.js": "/kodu/static/js/2.48103840.chunk.js",
+    "static/js/2.48103840.chunk.js.map": "/kodu/static/js/2.48103840.chunk.js.map",
     "index.html": "/kodu/index.html",
-    "precache-manifest.649bbafe92ee73302b0e3dca36fe9749.js": "/kodu/precache-manifest.649bbafe92ee73302b0e3dca36fe9749.js",
+    "precache-manifest.ef459368780b7f11d2820eb2c950b214.js": "/kodu/precache-manifest.ef459368780b7f11d2820eb2c950b214.js",
     "service-worker.js": "/kodu/service-worker.js",
-    "static/css/main.dab714a7.chunk.css.map": "/kodu/static/css/main.dab714a7.chunk.css.map",
-    "static/js/2.d15f7eda.chunk.js.LICENSE.txt": "/kodu/static/js/2.d15f7eda.chunk.js.LICENSE.txt"
+    "static/css/main.f709d517.chunk.css.map": "/kodu/static/css/main.f709d517.chunk.css.map",
+    "static/js/2.48103840.chunk.js.LICENSE.txt": "/kodu/static/js/2.48103840.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.458b0417.js",
-    "static/js/2.d15f7eda.chunk.js",
-    "static/css/main.dab714a7.chunk.css",
-    "static/js/main.ecaaf660.chunk.js"
+    "static/js/2.48103840.chunk.js",
+    "static/css/main.f709d517.chunk.css",
+    "static/js/main.c375688b.chunk.js"
   ]
 }
