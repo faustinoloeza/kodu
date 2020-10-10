@@ -2,6 +2,7 @@ import React from 'react';
 import pokemon from './pokemon.json';
 import PropTypes from 'prop-types';
 import './App.css';
+import './assets/main.css'
 
 const PokemonRow = ({pokemon, onSelect}) =>(
         <tr>
@@ -26,7 +27,7 @@ function App() {
     const [selectedItem, selectedItemSet] = React.useState("");
 
     return ( 
-        <div className='main'>
+        <div className='main bg-blue-500'>
             <h1 className='title'> Buscar Pokemon </h1>
             <input value={filter} onChange={(e)=> filterSet(e.target.value)} className='myImput'></input>
             {selectedItem && (
