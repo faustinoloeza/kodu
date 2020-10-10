@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f77d3fb0708ed79093903a3a92cf8739",
+    "revision": "3242e852ffec47b4a5a4108ba6750640",
     "url": "/kodu/index.html"
   },
   {
-    "revision": "de6a8e03b480319021ec",
-    "url": "/kodu/static/css/main.f709d517.chunk.css"
+    "revision": "a2f3740fb6f4390648f8",
+    "url": "/kodu/static/css/main.0240dbef.chunk.css"
   },
   {
     "revision": "6ba1829aba4ea5a2f3e6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kodu/static/js/2.48103840.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de6a8e03b480319021ec",
-    "url": "/kodu/static/js/main.c375688b.chunk.js"
+    "revision": "a2f3740fb6f4390648f8",
+    "url": "/kodu/static/js/main.1cfd7788.chunk.js"
   },
   {
     "revision": "74171c0114fa0226ecc3",

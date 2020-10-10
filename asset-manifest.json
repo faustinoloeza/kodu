@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kodu/static/css/main.f709d517.chunk.css",
-    "main.js": "/kodu/static/js/main.c375688b.chunk.js",
-    "main.js.map": "/kodu/static/js/main.c375688b.chunk.js.map",
+    "main.css": "/kodu/static/css/main.0240dbef.chunk.css",
+    "main.js": "/kodu/static/js/main.1cfd7788.chunk.js",
+    "main.js.map": "/kodu/static/js/main.1cfd7788.chunk.js.map",
     "runtime-main.js": "/kodu/static/js/runtime-main.458b0417.js",
     "runtime-main.js.map": "/kodu/static/js/runtime-main.458b0417.js.map",
     "static/js/2.48103840.chunk.js": "/kodu/static/js/2.48103840.chunk.js",
     "static/js/2.48103840.chunk.js.map": "/kodu/static/js/2.48103840.chunk.js.map",
     "index.html": "/kodu/index.html",
-    "precache-manifest.ef459368780b7f11d2820eb2c950b214.js": "/kodu/precache-manifest.ef459368780b7f11d2820eb2c950b214.js",
+    "precache-manifest.b1395cf3ba56a70f64d2eecc56441291.js": "/kodu/precache-manifest.b1395cf3ba56a70f64d2eecc56441291.js",
     "service-worker.js": "/kodu/service-worker.js",
-    "static/css/main.f709d517.chunk.css.map": "/kodu/static/css/main.f709d517.chunk.css.map",
+    "static/css/main.0240dbef.chunk.css.map": "/kodu/static/css/main.0240dbef.chunk.css.map",
     "static/js/2.48103840.chunk.js.LICENSE.txt": "/kodu/static/js/2.48103840.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.458b0417.js",
     "static/js/2.48103840.chunk.js",
-    "static/css/main.f709d517.chunk.css",
-    "static/js/main.c375688b.chunk.js"
+    "static/css/main.0240dbef.chunk.css",
+    "static/js/main.1cfd7788.chunk.js"
   ]
 }
